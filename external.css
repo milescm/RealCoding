@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #ccc;
+}
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+nav{
+  width : 35%;
+  background-color: lightgreen;
+}
+
+section{
+  background-color: lightblue;
+}
+
+article{
+  background-color: lightpink;
+}
